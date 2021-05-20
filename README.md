@@ -1,5 +1,5 @@
-# Webapplication built with Python and Flask. 
-## This webapplication was built for the thesis work "Cooperative edge deepfake detection" which can be found at link-to-thesis(comming soon).
+# Web application built with Python and Flask. 
+## This web application was built for the thesis work "Cooperative edge deepfake detection" which can be found at link-to-thesis(comming soon).
 
 ### Purpose
 The webapplication can be used to convert ml-weights (generated with the use of Darknet YOLOv2) to Keras models and create a bagging ensemble 
